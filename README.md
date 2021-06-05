@@ -1,16 +1,16 @@
 ### Hi there 👋
+#My name is Valentine and I'am front-end developer.
 
-<!--
-**valtikamore/valtikamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Languages and Tools
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/-REACT-1e1d1f?style-for=the-badge&logo=react&)
+![Typescript](https://img.shields.io/badge/-TYPESCRIPT-1e1d1f?style-for=the-badge&logo=typescript&)
+![Redux](https://img.shields.io/badge/-REDUX-1e1d1f?style-for=the-badge&logo=redux&)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1e1d1f?style-for=the-badge&logo=javascript&)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Follow me
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-1e1d1f?style-for=the-badge&logo=linkedin)](https://www.linkedin.com/in/valentin-kalchevski-841055207/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valtikamore&hide=stars,contribs&show_icons=true&theme=dracula)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valtikamore&layout=compact)]
