@@ -1,7 +1,7 @@
 ### Hi there 👋
-#My name is Valentine and I'am front-end developer.
+# My name is Valentine and I'am front-end developer.
 
-###Languages and Tools
+### Languages and Tools
 
 ![React](https://img.shields.io/badge/-REACT-1e1d1f?style-for=the-badge&logo=react&)
 ![Typescript](https://img.shields.io/badge/-TYPESCRIPT-1e1d1f?style-for=the-badge&logo=typescript&)
